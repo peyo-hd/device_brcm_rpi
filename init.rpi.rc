@@ -1,0 +1,8 @@
+on early-init
+   loglevel 7
+
+on fs
+    mount_all /fstab.rpi
+
+on boot
+    start console

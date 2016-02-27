@@ -1,0 +1,2 @@
+/dev/rfkill                     u:object_r:rfkill_device:s0
+/system/bin/hciconfig           u:object_r:hciconfig_exec:s0
